@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>More about the creator</title>
+    <style>
+    body {
+        background-color: grey;
+    }
+        .p {
+            color: white;
+        }
+    </style>
+    
+    </head>
+    
+    <body>
+    <h1>More about the creator</h1>
+    
+    <h3 class="p">Hi, my name is Floyd Flores, nice to meet you</h3>
+    <hr>
+    <p class="p">I was a Nintendo fan as a child, I played a lot of games on my Wii back then. games arranging from Mario kart Wii to mods like Project M. 
+    To this day, I am to this day still a Nintendo fan, I play a lot of old releases on the Nintendo switch and am still having a lot of fun 
+    right now. I also play some other games on other consoles too, from CoD: Black ops III on the Xbox to Hot Wheels: Unleashed on the PS5. 
+    Today I'm a Gardena senior high student doing well with all As on my report cards doing my best to pass and get a master's degree. I 
+    wanted to start on Unity and start making my own games not just to enjoy and take pride in something I would've never learned before, but to 
+    feel like someone and know what it feels like to be a video game designer.
+    <hr>
+    <h3>Personal info</h3><br>
+    Gmail: floydnotflores@gmail.com<br>
+    Nintendo switch friend code: SW-1886-1805-0885<br>
+    <hr>
+    <h3>Personal likings</h3><br>
+    Favorite food: Texan bread<br>
+    Favorite game: Super Smash Bros: Ultimate<br>
+    Favorite game genre: FPS (First Person Shooter)<br>
+    Favorite show: How It's Made<br>
+    <hr>
+    
+    
+    <a href="index3.html">Scratch game</a><br>
+    <a href="index.html">Previous page (Little Willie)</a><br>
+    <a href="https://www.google.com/search?q=history+of+tanks&oq=History+of+tanks">Learn more about Tanks</a><br>
+    </body>
+</html>
